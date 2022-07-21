@@ -19,6 +19,7 @@
 </div>
 
 ###
+
 <br/>
 
 <div align="center">
@@ -40,8 +41,9 @@
 </div>
 
 ###
+
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg)
+<img href="https://raw.githubusercontent.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg" alt="Snake animation" />
 
 ###
