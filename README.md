@@ -8,8 +8,6 @@
 <img src='https://i.imgur.com/FWgfUZX.gif' height="150" alt='Hello gif'/>
 </div>
 
-<br/>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/d%C3%A9rick-almeida-da-silva-34a8a51b3/" target="_blank" style='margin-right: 5px'>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
@@ -22,7 +20,6 @@
 
 ###
 <br/>
-<hr/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My Github Stats&username=Derick-Almeida" height="150" alt="stats graph"  />
@@ -30,9 +27,8 @@
 </div>
 
 ###
-<hr/>
 
-<h2 align="center" style='margin-bottom: 20px'>Minhas tecnologias</h2>
+<h2 align="center">Minhas tecnologias</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
@@ -46,6 +42,6 @@
 ###
 <br/>
 
-<img href="https://raw.githubusercontent.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg)
 
 ###
