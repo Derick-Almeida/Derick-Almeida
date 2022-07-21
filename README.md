@@ -44,6 +44,6 @@
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg)
+![Snake animation](https://github.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg)
 
 ###
