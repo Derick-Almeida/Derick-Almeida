@@ -2,11 +2,13 @@
 
 ###
 
-<br clear="both"/>
+<br/>
 
 <div align="center">
 <img src='https://i.imgur.com/FWgfUZX.gif' height="150" alt='Hello gif'/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/d%C3%A9rick-almeida-da-silva-34a8a51b3/" target="_blank" style='margin-right: 5px'>
@@ -20,14 +22,14 @@
 
 ###
 
-<br/>
-
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My Github Stats&username=Derick-Almeida" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&username=Derick-Almeida" height="150" alt="languages graph"  />
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
@@ -38,10 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
 </div>
 
-###
+##
 
-<br/>
-
-![Snake animation](https://github.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg)
+<div align="center">
+  <img src="https://github.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
