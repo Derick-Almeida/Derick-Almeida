@@ -22,14 +22,12 @@
 
 <br/>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My Github Stats&username=Derick-Almeida" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&username=Derick-Almeida" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h2 align="center">Minhas tecnologias</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
