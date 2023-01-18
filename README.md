@@ -1,49 +1,55 @@
-<h2 align="center">Olá, eu sou o Dérick. Seja bem vindo (a)!  😀</h2>
+<h1 align="center">Olá, eu sou o Dérick. Seja bem vindo(a)!  😀</h1>
 
-###
-
-<br/>
-
-<div align="center">
-<img src='https://i.imgur.com/FWgfUZX.gif' height="150" alt='Hello gif'/>
-</div>
+![ mario ](https://i.imgur.com/whfNCd2.gif)
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/d%C3%A9rick-almeida-da-silva-34a8a51b3/" target="_blank" style='margin-right: 5px'>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="d.a.s2000silva14@gmail.com" target="_blank" style='margin-right: 5px'>
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Derick-Almeida&style=for-the-badge&color=blueviolet"  />
-</div>
-
-###
-
-##
+# Minhas Habilidades
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&custom_title=My Github Stats&username=Derick-Almeida" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&username=Derick-Almeida" height="150" alt="languages graph"  />
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,django,react,nodejs,express,redux,materialui,figma,styledcomponents,postgresql,docker,linux,visualstudio,vercel,git,github,jest,heroku&perline=11)
+
 </div>
 
-<br/>
+# Minhas estatísticas do GitHub
+
+### GitHub Streak
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Derick-Almeida&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000)](https://git.io/streak-stats)
+
 </div>
 
-##
+### Linguagens mais usadas
 
 <div align="center">
-  <img src="https://github.com/Derick-Almeida/Derick-Almeida/blob/output/snake.svg" alt="Snake animation" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Almeida&card_width=498&theme=tokyonight&hide_border=true&bg_color=0,000056,01012c&title_color=f50079&text_color=7ee3ff&icon_color=12a000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-###
+### Gráfico de atividades do GitHub
+
+![ gráfico de atividade do github de Derick-Almeida ](https://github-readme-activity-graph.cyclic.app/graph?username=Derick-Almeida&color=01012c&line=01012c&hide_title=true&hide_border=true&theme=github-compact&point=f50079)
+
+# Principais Projetos
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=portfolio_api&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/portfolio_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=FutCamp&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/FutCamp)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=motors-shop-frontend&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors-shop-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=do.it&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/do.it)
+
+</div>
+
+<div align="center">
+
+![Snake animation](https://github.com/Derick-Almeida/Derick-Almeida/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+![ rodapé ](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
