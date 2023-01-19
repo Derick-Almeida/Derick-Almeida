@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derick-Almeida&card_width=498&theme=tokyonight&hide_border=true&bg_color=0,000056,01012c&title_color=f50079&text_color=7ee3ff&icon_color=12a000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-dk.vercel.app/api/top-langs/?username=Derick-Almeida&card_width=498&theme=tokyonight&hide_border=true&bg_color=0,000056,01012c&title_color=f50079&text_color=7ee3ff&icon_color=12a000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -38,11 +38,11 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=portfolio_api&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/portfolio_api)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=FutCamp&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/FutCamp)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=portfolio_api&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/portfolio_api)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=FutCamp&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/FutCamp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=motors-shop-frontend&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors-shop-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Derick-Almeida&repo=do.it&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/do.it)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=motors-shop-frontend&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors-shop-frontend)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=do.it&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/do.it)
 
 </div>
 
