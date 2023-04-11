@@ -14,18 +14,17 @@
 
 # Minhas estatísticas do GitHub
 
-### GitHub Streak
+<div align="center">
+
+![profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+### GitHub Streak e Linguagens mais usadas
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Derick-Almeida&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000)](https://git.io/streak-stats)
-
-</div>
-
-### Linguagens mais usadas
-
-<div align="center">
-
 [![Top Langs](https://github-readme-stats-dk.vercel.app/api/top-langs/?username=Derick-Almeida&card_width=498&theme=tokyonight&hide_border=true&bg_color=0,000056,01012c&title_color=f50079&text_color=7ee3ff&icon_color=12a000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
@@ -51,6 +50,5 @@
 ![Snake animation](https://github.com/Derick-Almeida/Derick-Almeida/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
 
 ![ rodapé ](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
