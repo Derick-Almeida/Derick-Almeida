@@ -20,12 +20,11 @@
 
 </div>
 
-### GitHub Streak e Linguagens mais usadas
+### GitHub Streak
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Derick-Almeida&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats-dk.vercel.app/api/top-langs/?username=Derick-Almeida&card_width=498&theme=tokyonight&hide_border=true&bg_color=0,000056,01012c&title_color=f50079&text_color=7ee3ff&icon_color=12a000&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
