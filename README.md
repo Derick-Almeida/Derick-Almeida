@@ -30,7 +30,7 @@
 
 ### Gráfico de atividades do GitHub
 
-![ gráfico de atividade do github de Derick-Almeida ](https://github-readme-activity-graph.cyclic.app/graph?username=Derick-Almeida&color=176600&line=01012c&hide_title=true&hide_border=true&theme=github-compact&point=f50079)
+![gráfico de atividade do github de Derick-Almeida](https://github-readme-activity-graph.vercel.app/graph?username=Derick-Almeida&color=176600&line=01012c&hide_title=true&hide_border=true&theme=github-compact&point=f50079)
 
 # Principais Projetos
 
