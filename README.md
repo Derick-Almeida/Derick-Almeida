@@ -39,8 +39,8 @@
 [![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=project_manager&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/project_manager)
 [![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=FutCamp&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/FutCamp)
 
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=motors-shop-frontend&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors-shop-frontend)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=do.it&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/do.it)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=motors_shop-react-ts&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors_shop-react-ts)
+[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=shop_now-react-ts&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/shop_now-react-ts)
 
 </div>
 
