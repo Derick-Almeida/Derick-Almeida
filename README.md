@@ -20,28 +20,4 @@
 
 </div>
 
-### GitHub Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Derick-Almeida&theme=highcontrast&background=000056&border=282A36&dates=7ee3ff&ring=f50079&fire=f50079&stroke=f50079&currStreakLabel=12a000&sideLabels=12a000)](https://git.io/streak-stats)
-
-</div>
-
-### Gráfico de atividades do GitHub
-
-![gráfico de atividade do github de Derick-Almeida](https://github-readme-activity-graph.vercel.app/graph?username=Derick-Almeida&color=176600&line=01012c&hide_title=true&hide_border=true&theme=github-compact&point=f50079)
-
-# Principais Projetos
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=project_manager&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/project_manager)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=FutCamp&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/FutCamp)
-
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=motors_shop-react-ts&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/motors_shop-react-ts)
-[![Readme Card](https://github-readme-stats-dk.vercel.app/api/pin/?username=Derick-Almeida&repo=shop_now-react-ts&title_color=f50079&text_color=7ee3ff&icon_color=176600&bg_color=0,000056,01012c&hide_border=true)](https://github.com/Derick-Almeida/shop_now-react-ts)
-
-</div>
-
 ![ rodapé ](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
